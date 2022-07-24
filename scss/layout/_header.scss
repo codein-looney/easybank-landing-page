@@ -1,0 +1,19 @@
+header {
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+
+    outline: 1px solid red;
+
+    .nav-primary {
+
+        .main-nav {
+            display: flex;
+            gap: 2em;
+            list-style-type: none;
+
+        }
+    }
+}

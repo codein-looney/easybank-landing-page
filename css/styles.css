@@ -13,4 +13,18 @@ p {
   font-size: 18px;
 }
 
+header {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
+  outline: 1px solid red;
+}
+header .nav-primary .main-nav {
+  display: flex;
+  gap: 2em;
+  list-style-type: none;
+}
+
 /*# sourceMappingURL=styles.css.map */
